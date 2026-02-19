@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Birobidzhan",
+    "region": "Yevrey",
+    "country": "Russia",
+    "lat": 48.8,
+    "lon": 132.95,
+    "tz_id": "Asia/Vladivostok",
+    "localtime_epoch": 1771434927,
+    "localtime": "2026-02-19 03:15"
+  },
+  "current": {
+    "last_updated_epoch": 1771434900,
+    "last_updated": "2026-02-19 03:15",
+    "temp_c": -26.9,
+    "temp_f": -16.3,
+    "is_day": 0,
+    "condition": {
+      "text": "Mist",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/143.png",
+      "code": 1030
+    },
+    "wind_mph": 3.1,
+    "wind_kph": 5.0,
+    "wind_degree": 283,
+    "wind_dir": "WNW",
+    "pressure_mb": 1021.0,
+    "pressure_in": 30.14,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 96,
+    "cloud": 39,
+    "feelslike_c": -32.1,
+    "feelslike_f": -25.8,
+    "windchill_c": -32.1,
+    "windchill_f": -25.8,
+    "heatindex_c": -26.9,
+    "heatindex_f": -16.3,
+    "dewpoint_c": -27.4,
+    "dewpoint_f": -17.2,
+    "vis_km": 2.0,
+    "vis_miles": 1.0,
+    "uv": 0.0,
+    "gust_mph": 6.6,
+    "gust_kph": 10.6,
+    "short_rad": 0,
+    "diff_rad": 0,
+    "dni": 0,
+    "gti": 0
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Asdf",
+    "region": "Lofa",
+    "country": "Либерия",
+    "lat": 7.6139,
+    "lon": -10.4517,
+    "tz_id": "Africa/Monrovia",
+    "localtime_epoch": 1771488004,
+    "localtime": "2026-02-19 08:00"
+  },
+  "current": {
+    "last_updated_epoch": 1771491600,
+    "last_updated": "2026-02-19 09:00",
+    "temp_c": 21.5,
+    "temp_f": 70.6,
+    "is_day": 1,
+    "condition": {
+      "text": "Partly Cloudy",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+      "code": 1003
+    },
+    "wind_mph": 2.2,
+    "wind_kph": 3.6,
+    "wind_degree": 302,
+    "wind_dir": "WNW",
+    "pressure_mb": 1013.0,
+    "pressure_in": 29.91,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 89,
+    "cloud": 41,
+    "feelslike_c": 21.5,
+    "feelslike_f": 70.6,
+    "windchill_c": 21.5,
+    "windchill_f": 70.6,
+    "heatindex_c": 24.3,
+    "heatindex_f": 75.7,
+    "dewpoint_c": 19.6,
+    "dewpoint_f": 67.2,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 0.7,
+    "gust_mph": 6.7,
+    "gust_kph": 10.8,
+    "short_rad": 0.0,
+    "diff_rad": 0.0,
+    "dni": 0.0,
+    "gti": 0.0
+  }
+}

@@ -1,5 +1,0 @@
-package dhapr
-
-fun main() {
-
-}

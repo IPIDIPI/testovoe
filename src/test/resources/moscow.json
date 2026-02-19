@@ -1,0 +1,51 @@
+{
+  "location": {
+    "name": "Moscow",
+    "region": "Moscow City",
+    "country": "Russia",
+    "lat": 55.7522,
+    "lon": 37.6156,
+    "tz_id": "Europe/Moscow",
+    "localtime_epoch": 1771435148,
+    "localtime": "2026-02-18 20:19"
+  },
+  "current": {
+    "last_updated_epoch": 1771434900,
+    "last_updated": "2026-02-18 20:15",
+    "temp_c": -10.7,
+    "temp_f": 12.7,
+    "is_day": 0,
+    "condition": {
+      "text": "Mist",
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/143.png",
+      "code": 1030
+    },
+    "wind_mph": 7.4,
+    "wind_kph": 11.9,
+    "wind_degree": 102,
+    "wind_dir": "ESE",
+    "pressure_mb": 1018.0,
+    "pressure_in": 30.06,
+    "precip_mm": 0.0,
+    "precip_in": 0.0,
+    "humidity": 78,
+    "cloud": 0,
+    "feelslike_c": -16.7,
+    "feelslike_f": 1.9,
+    "windchill_c": -17.2,
+    "windchill_f": 1.1,
+    "heatindex_c": -11.1,
+    "heatindex_f": 12.1,
+    "dewpoint_c": -11.8,
+    "dewpoint_f": 10.7,
+    "vis_km": 10.0,
+    "vis_miles": 6.0,
+    "uv": 0.0,
+    "gust_mph": 13.0,
+    "gust_kph": 21.0,
+    "short_rad": 0,
+    "diff_rad": 0,
+    "dni": 0,
+    "gti": 0
+  }
+}
